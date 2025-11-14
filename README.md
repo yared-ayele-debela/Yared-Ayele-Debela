@@ -5,9 +5,9 @@
 
 <br>
 
-I'm a highly motivated **Full-Stack Developer** with a Bachelor of Science in Computer Science and over **two years of professional experience**. I build **scalable, secure, and user-centric** applications — from ERP systems and multi-vendor marketplaces to healthcare and financial solutions like Ekub platforms.
+I'm a highly motivated **Full-Stack Developer** with a Bachelor of Science in Computer Science and over **two years of professional experience**. I build **scalable, secure, and user-centric** applications — from ERP systems and multi-vendor marketplaces to healthcare solutions and community-based financial platforms like Ekub systems.
 
-My work blends **clean architecture, modern JavaScript, and practical AI integration** using tools like **Gemini AI**, recommendation systems, and automation flows.
+My work focuses on clean architecture, practical engineering, and modern tooling. I’m also passionate about integrating **AI** to make software smarter and more helpful.
 
 ---
 
@@ -19,19 +19,27 @@ My work blends **clean architecture, modern JavaScript, and practical AI integra
 - **Frontend Development**  
   React, Vue.js, Livewire — delivering clean and smooth user experiences.
 
-- **MERN Stack**  
-  MongoDB, Express.js, React, Node.js — full modern app development.
+- **MERN Stack Development**  
+  MongoDB, Express.js, React, Node.js — full modern application development.
 
 - **Database Management**  
-  MySQL & MongoDB — structured and optimized data solutions.
+  MySQL & MongoDB — structured and optimized data handling.
 
 - **DevOps & Tools**  
   Docker, Git, REST APIs, Postman, CI/CD basics.
 
-- **AI & Modern JS Interests**  
-  • Gemini AI API  
-  • AI-powered recommendation systems  
-  • Next.js, Edge functions, and scalable architectures  
+---
+
+## 🚀 **Currently Expanding Into**
+
+- **AI-powered applications**  
+  LLM integrations, intelligent automation, and conversational tools.
+
+- **Intelligent recommendation systems**  
+  Product/content personalization, ranking algorithms, behavior-based suggestions.
+
+- **Modern JavaScript ecosystems**  
+  Especially **Next.js**, server components, API routes, and scalable architectures.
 
 ---
 
@@ -49,16 +57,17 @@ My work blends **clean architecture, modern JavaScript, and practical AI integra
 **Tech Stack:** Laravel, Livewire, Bootstrap, Ajax  
 **Highlights:**  
 - Vendor dashboards  
-- Product catalog & dynamic pricing  
-- Order & delivery management  
-- Customer reviews & analytics dashboards  
+- Product catalog management  
+- Order & delivery tracking  
+- Customer reviews  
+- Advanced analytics dashboard  
 
 ---
 
 ### **3. Course Enrollment Platform**
-> Simplifies course registration for schools and universities.  
+> Simplifies academic course registration and administration.  
 **Tech Stack:** Laravel, PHP, MySQL  
-**Features:** Dynamic scheduling · Payment integration · Real-time notifications  
+**Features:** Dynamic scheduling · Payment integration · Notifications  
 
 ---
 
@@ -72,7 +81,7 @@ My work blends **clean architecture, modern JavaScript, and practical AI integra
 ### **5. Ekub (Revolving Savings) Application**
 > A digital platform for community-based financial management.  
 **Tech Stack:** Laravel, Ajax, MySQL  
-**Features:** Monthly draws · Eligibility engine · Multi-user distribution · Package tiers  
+**Features:** Monthly draws · Eligibility engine · Package tiers · Multi-user winning distribution  
 
 ---
 
@@ -80,11 +89,11 @@ My work blends **clean architecture, modern JavaScript, and practical AI integra
 
 ### **Hotel Reservation System**
 **Tech Stack:** Laravel, React, MySQL  
-Hotel booking, room availability tracking, and customer preference management.
+Booking management, room availability, and customer preference tracking.
 
 ### **Restaurant Food Ordering Web Application**
 **Tech Stack:** Laravel, Vue.js  
-Order placement, delivery management, and vendor dashboards.
+Order placement, delivery workflows, vendor dashboards.
 
 ---
 
@@ -99,7 +108,7 @@ Order placement, delivery management, and vendor dashboards.
 # 🌐 **Connect with Me**
 
 - **LinkedIn:** [Yared Ayele Debela](https://www.linkedin.com/in/yared-ayele-debela)  
-- **Portfolio:** [yaredayele.com](https://yaredayele.com)  
+- **Portfolio:** [yaredayele.com](https://yareda-kappa.vercel.app/)  
 - **Email:** [yared.debela.ayele@gmail.com](mailto:yared.debela.ayele@gmail.com)  
 - **CodePen:** [codepen.io/yared-ayele-debela](https://codepen.io/yared-ayele-debela)  
 
