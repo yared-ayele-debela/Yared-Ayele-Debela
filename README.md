@@ -1,136 +1,128 @@
-<!-- Animated Header Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Yared+Ayele+👋;Full-Stack+Software+Engineer;AI+Enthusiast+%7C+Problem+Solver;Let's+Build+Something+Amazing+Together!">
-</div>
+## 🎨 Featured Portfolio Projects
+
+Below are some of the solutions I’ve designed and built — presented in a clean, product-style layout.
 
 ---
 
-## 🧑‍💻 About Me  
-I'm **Yared Ayele**, a passionate **Full-Stack Software Engineer** with strong experience in building **scalable, secure, and user-focused** applications using modern web technologies.  
-I love solving real-world problems through clean code, strong architecture, and emerging technologies — especially AI.
+## 🧠 AI-Integrated ERP System (Multi-Business)
+**Status:** 🚧 In Development  
+**Type:** ERP · AI Automation · Cross-Industry Solution
+
+A next-generation ERP platform built for **retail, hospitality, logistics, and service industries**, powered by integrated AI modules.
+
+**✨ Highlights**
+- AI-driven inventory forecasting  
+- Automated financial insights  
+- Business intelligence dashboards  
+- Multi-tenant architecture  
+- Natural language: *“Ask your ERP anything”*  
+- Modular design (HR, Sales, Accounting, Inventory, POS)  
+
+**🛠 Tech Stack**  
+`Laravel` · `Next.js / React` · `MySQL` · `AI APIs` · `Docker`
 
 ---
 
-# ⚙️ Tech Stack & Tools
+## 🏨 Hotel Reservation System (Completed)
+**Type:** Hospitality · Booking Engine · Management Dashboard
 
-<div align="center">
+A clean and efficient hotel management platform supporting real-time booking, room availability, and customer preferences.
 
-### **Languages & Frameworks**
-  
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,vue,nodejs,express,mongodb,mysql,html,css,bootstrap,tailwind" />
+**✨ Features**
+- Real-time room availability  
+- Reservation management  
+- Dynamic pricing support  
+- Guest profiles  
+- Admin dashboard + analytics  
 
-### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,figma" />
-
-</div>
-
----
-
-# 🚀 Currently Expanding Into
-
-- **AI-powered applications** (LLMs, automation, conversational systems)  
-- **Recommendation engines** (ranking, personalization)  
-- **Next.js & modern JS tooling** (server components, API routes, edge features)
+**🛠 Tech Stack**  
+`Laravel` · `React` · `MySQL`
 
 ---
 
-# 🧠 AI Projects (New Section)
+## 🍽 Restaurant Ordering & Delivery Platform (Completed)
+**Type:** Food Ordering · Delivery Workflow · Vendor Dashboard
 
-### **1. AI Product Recommendation Engine**
-> AI-powered product suggestion system based on user behavior & product similarities.  
-**Tech:** Node.js, Python, Gemini API, Vector Similarity
+A modern solution for restaurants with both dine-in and delivery support.
 
-### **2. AI Chat Automation for Web Apps**
-> Integrated LLM responses into existing Laravel applications.  
-**Tech:** Gemini API, Laravel, REST
+**✨ Features**
+- Menu & item management  
+- Kitchen order workflow  
+- Delivery assignment  
+- Vendor dashboards  
+- Customer order tracking  
 
-### **3. Intelligent Delivery Assignment**
-> Assigns delivery personnel using distance + load + historical patterns.  
-**Tech:** Laravel, JS, Rule-based + heuristic ranking
-
-### **4. AI Customer Support Assistant (Prototype)**
-> Automated replies + order assistance for multi-vendor eCommerce.  
-**Tech:** React, Node.js, LLM APIs
+**🛠 Tech Stack**  
+`Laravel` · `Vue.js` · `MySQL`
 
 ---
 
-# 🔥 Featured Projects
+## 🛒 Multi-Vendor eCommerce Platform
+**Type:** Marketplace · Vendor Management · Analytics
 
-### **ERP System**
-Modular enterprise system — reporting, RBAC, HR, Inventory  
-**Tech:** Laravel, MySQL, jQuery, Bootstrap
+A fully scalable multi-vendor marketplace platform with separate dashboards for vendors, customers, and admins.
 
-### **Multi-Vendor eCommerce Platform**
-Vendor dashboards, product management, analytics  
-**Tech:** Laravel, Livewire, Ajax  
+**✨ Features**
+- Vendor onboarding  
+- Product catalog management  
+- Order management  
+- Delivery workflow  
+- Customer reviews  
+- Analytics dashboard  
 
-### **Course Enrollment Platform**
-Scheduling, payments, notifications  
-**Tech:** Laravel, MySQL  
-
-### **Healthcare Management System**
-Appointments, billing, patient management  
-**Tech:** Laravel, jQuery  
-
-### **Ekub Application**
-Community financial system with monthly draws  
-**Tech:** Laravel, MySQL
+**🛠 Tech Stack**  
+`Laravel` · `Livewire` · `Bootstrap` · `MySQL`
 
 ---
 
-# 📦 Current Projects
+## 🏫 Course Enrollment & Academic Platform
+**Type:** Education · Course Scheduling · Online Payments
 
-### **Hotel Reservation System**  
-**Tech:** Laravel, React
+A platform that streamlines student registration and course management.
 
-### **Restaurant Ordering Platform**  
-**Tech:** Laravel, Vue.js
+**✨ Features**
+- Student enrollment  
+- Course scheduling  
+- Online payment integration  
+- Real-time notifications  
 
----
-
-# 🏅 Certifications
-
-- Meta Front-End Development  
-- IBM Node.js Back-End Development  
-- Simplilearn Docker  
-- Udemy Full Stack Development  
+**🛠 Tech Stack**  
+`Laravel` · `PHP` · `MySQL`
 
 ---
 
-# 📊 GitHub Metrics (Dark Mode)
+## 🏥 Healthcare Management System
+**Type:** Medical · Patient Database · Appointment System
 
-## 🔥 Streak Stats  
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yared-ayele-debela&theme=radical&background=000000" />
-</div>
+A complete hospital administration system with scheduling and automated billing.
 
-## 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yared-ayele-debela&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yared-ayele-debela&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
+**✨ Features**
+- Patient records  
+- Appointment scheduling  
+- Billing automation  
+- Departmental dashboards  
 
-## 🟩 Contribution Graph  
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yared-ayele-debela&theme=react-dark&hide_border=true"/>
-</div>
-
-## 🏆 GitHub Trophies  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yared-ayele-debela&theme=dracula&no-bg=true&margin-w=10" />
-</div>
+**🛠 Tech Stack**  
+`Laravel` · `Bootstrap` · `jQuery`
 
 ---
 
-# 🌐 Connect With Me
+## 💰 Ekub (Revolving Savings) Management System
+**Type:** Community Finance · Automated Draws
 
-- **LinkedIn:** [Yared Ayele Debela](https://www.linkedin.com/in/yared-ayele-debela)  
-- **Portfolio:** [yaredayele.com](https://yaredayele.com)  
-- **Email:** [yared.debela.ayele@gmail.com](mailto:yared.debela.ayele@gmail.com)  
-- **CodePen:** [codepen.io/yared-ayele-debela](https://codepen.io/yared-ayele-debela)
+Digital transformation of traditional Ekub savings.
+
+**✨ Features**
+- Automatic monthly draws  
+- Eligibility engine  
+- Package tiers (gold, premium, platinum)  
+- Multi-winner distribution per draw  
+
+**🛠 Tech Stack**  
+`Laravel` · `MySQL` · `Ajax`
 
 ---
 
 <div align="center">
-  <h3>✨ "Building software solutions that make a real-world impact." ✨</h3>
+  <strong>🚀 More projects coming soon — especially in AI & large-scale systems.</strong>
 </div>
