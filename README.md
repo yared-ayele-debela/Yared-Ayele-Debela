@@ -1,83 +1,120 @@
-<div align="center"><h1># Hi there! 👋 I'm Yared Ayele</h1></div>
-<br>
-Hi, I'm Yared Ayele, a highly motivated and experienced Software Engineer with a strong foundation in designing and building scalable, secure, and user-centric applications. With a Bachelor of Science in Computer Science and over two years of hands-on experience, I have contributed to cutting-edge projects in ERP systems, eCommerce platforms, and community-based financial applications.
-<br>
-💻 What I Do:
-
-- **Backend Development**: Expertise in PHP and frameworks like Laravel for crafting robust, efficient solutions. <br>
-- **Frontend Development**: Skilled in JavaScript, React, and Livewire to create engaging and seamless user experiences.<br>
-- **MERN Stack Expertise**: Proficient in building modern, scalable applications using MongoDB, Express.js, React, and Node.js.<br>
-- **Database Management**: Hands-on experience with MySQL, and MongoDB for secure and reliable data handling.<br>
-- **DevOps & Tools**: Proficient with Docker, Git, and other tools that streamline the software development lifecycle.<br>
-
-## 🚀 Projects  
-Here are some of the projects I’ve worked on:  
-
-### **1. ERP System**  
-> An enterprise management platform enabling seamless business operations and process automation.  
-- **Tech Stack**: Bootstrap, Ajax, Jquery, Laravel, MySQL  
-- **Key Features**: Modular design, advanced reporting, role-based access control  
-
-### **2. Multi-Vendor eCommerce Website**  
-> A scalable solution for managing multiple vendors and their online presence.  
-- **Tech Stack**:  Bootstrap, Ajax, Jquery, Laravel, Livewire
-- **Key Features**:  
-  - Vendor management  
-  - Product catalog  
-  - Order tracking  
-  - Order delivery  
-  - Shipping management  
-  - Customer reviews and ratings  
-  - Advanced analytics dashboard  
-
-### **3. Course Enrollment Platform**  
-> Simplifies student registration and course management for educational institutions.  
-- **Tech Stack**: Bootsrap, Laravel, PHP, MySQL,  
-- **Key Features**: Dynamic course scheduling, payment integration, real-time notifications  
-
-### **4. Healthcare Management System**  
-> A comprehensive system to optimize hospital operations.  
-- **Tech Stack**: Bootstrap, Laravel, jQuery, MySQL  
-- **Key Features**: Patient records, appointment scheduling, billing automation  
-
-### **5. Ekub Application**  
-> An innovative platform for community-based financial systems.  
-- **Tech Stack**: Bootstrap, Laravel, MySQL, JQuery, Ajax  
-- **Key Features**: Monthly draws, financial tracking, package-based entries  
-
-## 💼 Current Projects  
-
-### **Hotel Reservation System**  
-> An intuitive platform for managing hotel bookings, rooms, and customer preferences.  
-- **Tech Stack**: Laravel, React, MySQL  
-
-### **Restaurant Food Order Web Application**  
-> A user-friendly application for food ordering and delivery management.  
-- **Tech Stack**: Laravel, Vue.js,  
-
-## 🌟 My Certificate  
-- **Certifications**:  
-  - Meta Front-End Development  
-  - IBM Node.js Back-End Apps  
-  - Simplilearn Docker  
-  - Udemy Full Stack Development  
----
-
-## 🌐 Connect with Me  
-
-- **LinkedIn**: [Yared Ayele Debela](https://www.linkedin.com/in/yared-ayele-debela)  
-- **Portfolio**: [yaredayele.com](https://yaredayele.com.com)  
-- **Email**: [yared.debela.ayele@gmail.com](mailto:yared.debela.ayele@gmail.com)
-- **CodePen**: [yared.ayele.debela.com](https://codepen.io/yared-ayele-debela)
----
-
-✨ *"Building software solutions that make a difference in people's lives."*  
-
-## 🔥 Streak Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yared-ayele-debela&theme=radical" alt="Commit Streak Stats" />
+  <h1>👋 Hi there! I'm <strong>Yared Ayele</strong></h1>
+  <h3>Full-Stack Software Engineer | AI Enthusiast | Problem Solver</h3>
 </div>
 
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yared-ayele-debela&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+I'm a highly motivated **Full-Stack Developer** with a Bachelor of Science in Computer Science and over **two years of professional experience**. I build **scalable, secure, and user-centric** applications — from ERP systems and multi-vendor marketplaces to healthcare and financial solutions like Ekub platforms.
+
+My work blends **clean architecture, modern JavaScript, and practical AI integration** using tools like **Gemini AI**, recommendation systems, and automation flows.
+
+---
+
+## 💻 **What I Do**
+
+- **Backend Development**  
+  PHP, Laravel — building robust, secure, scalable systems.
+
+- **Frontend Development**  
+  React, Vue.js, Livewire — delivering clean and smooth user experiences.
+
+- **MERN Stack**  
+  MongoDB, Express.js, React, Node.js — full modern app development.
+
+- **Database Management**  
+  MySQL & MongoDB — structured and optimized data solutions.
+
+- **DevOps & Tools**  
+  Docker, Git, REST APIs, Postman, CI/CD basics.
+
+- **AI & Modern JS Interests**  
+  • Gemini AI API  
+  • AI-powered recommendation systems  
+  • Next.js, Edge functions, and scalable architectures  
+
+---
+
+# 🚀 **Featured Projects**
+
+### **1. ERP System**
+> A modular enterprise solution for managing internal operations and automating workflows.  
+**Tech Stack:** Laravel, Bootstrap, jQuery, MySQL  
+**Features:** Modular architecture · Advanced reporting · RBAC · Inventory & HR modules  
+
+---
+
+### **2. Multi-Vendor eCommerce Platform**
+> A complete marketplace system for vendors, customers, and admins.  
+**Tech Stack:** Laravel, Livewire, Bootstrap, Ajax  
+**Highlights:**  
+- Vendor dashboards  
+- Product catalog & dynamic pricing  
+- Order & delivery management  
+- Customer reviews & analytics dashboards  
+
+---
+
+### **3. Course Enrollment Platform**
+> Simplifies course registration for schools and universities.  
+**Tech Stack:** Laravel, PHP, MySQL  
+**Features:** Dynamic scheduling · Payment integration · Real-time notifications  
+
+---
+
+### **4. Healthcare Management System**
+> End-to-end hospital administration platform.  
+**Tech Stack:** Laravel, jQuery, Bootstrap  
+**Features:** Patient records · Appointment scheduling · Billing automation  
+
+---
+
+### **5. Ekub (Revolving Savings) Application**
+> A digital platform for community-based financial management.  
+**Tech Stack:** Laravel, Ajax, MySQL  
+**Features:** Monthly draws · Eligibility engine · Multi-user distribution · Package tiers  
+
+---
+
+# 💼 **Current Projects**
+
+### **Hotel Reservation System**
+**Tech Stack:** Laravel, React, MySQL  
+Hotel booking, room availability tracking, and customer preference management.
+
+### **Restaurant Food Ordering Web Application**
+**Tech Stack:** Laravel, Vue.js  
+Order placement, delivery management, and vendor dashboards.
+
+---
+
+# 🌟 **Certificates**
+- Meta Front-End Development  
+- IBM Node.js Back-End Development  
+- Simplilearn Docker  
+- Udemy Full Stack Development  
+
+---
+
+# 🌐 **Connect with Me**
+
+- **LinkedIn:** [Yared Ayele Debela](https://www.linkedin.com/in/yared-ayele-debela)  
+- **Portfolio:** [yaredayele.com](https://yaredayele.com)  
+- **Email:** [yared.debela.ayele@gmail.com](mailto:yared.debela.ayele@gmail.com)  
+- **CodePen:** [codepen.io/yared-ayele-debela](https://codepen.io/yared-ayele-debela)  
+
+---
+
+<div align="center">
+  
+## 🔥 Streak Stats  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yared-ayele-debela&theme=radical" />
+
+## 🏆 GitHub Trophies  
+<img src="https://github-profile-trophy.vercel.app/?username=yared-ayele-debela&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
+  
+</div>
+
+---
+
+<p align="center"><strong>✨ "Building software solutions that make a real-world impact." ✨</strong></p>
