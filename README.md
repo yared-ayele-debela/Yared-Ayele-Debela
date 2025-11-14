@@ -6,8 +6,12 @@
 ---
 
 ## 🧑‍💻 About Me  
-I'm **Yared Ayele**, a passionate **Full-Stack Software Engineer** with strong experience in building **scalable, secure, and user-focused** applications using modern web technologies.  
-I love solving real-world problems through clean code, strong architecture, and emerging technologies — especially AI.
+I'm **Yared Ayele**, a dedicated **Full-Stack Software Engineer** with hands-on experience building  
+**scalable, secure, and intelligent systems** for businesses across hospitality, retail, finance,  
+and eCommerce sectors.
+
+I enjoy architecting clean solutions, improving system performance, and integrating **AI**  
+into real-world applications.
 
 ---
 
@@ -15,11 +19,10 @@ I love solving real-world problems through clean code, strong architecture, and 
 
 <div align="center">
 
-### **Languages & Frameworks**
-  
+### **Languages & Frameworks**  
 <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,vue,nodejs,express,mongodb,mysql,html,css,bootstrap,tailwind" />
 
-### **Tools & Platforms**
+### **Tools & Platforms**  
 <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,figma" />
 
 </div>
@@ -27,165 +30,133 @@ I love solving real-world problems through clean code, strong architecture, and 
 ---
 
 # 🚀 Currently Expanding Into
-
-- **AI-powered applications** (LLMs, automation, conversational systems)  
-- **Recommendation engines** (ranking, personalization)  
-- **Next.js & modern JS tooling** (server components, API routes, edge features)
+- 🤖 **AI-powered applications** (LLMs, automation & analytics)  
+- 🎯 **Recommendation engines** (ranking, personalization)  
+- ⚡ **Next.js & modern JS tooling** (server components, edge runtime)  
 
 ---
 
-# 🧠 AI Projects (New Section)
+# 🧠 AI Projects
 
-### **1. AI Product Recommendation Engine**
-> AI-powered product suggestion system based on user behavior & product similarities.  
-**Tech:** Node.js, Python, Gemini API, Vector Similarity
+### **1. AI Product Recommendation Engine**  
+AI-based product suggestion model using vector similarity & behavioral data.  
+**Tech:** Node.js, Python, Gemini API, Vector DB
 
-### **2. AI Chat Automation for Web Apps**
-> Integrated LLM responses into existing Laravel applications.  
+### **2. AI Chat Automation for Web Apps**  
+LLM-powered chatbot integrated into Laravel systems.  
 **Tech:** Gemini API, Laravel, REST
 
-### **3. Intelligent Delivery Assignment**
-> Assigns delivery personnel using distance + load + historical patterns.  
-**Tech:** Laravel, JS, Rule-based + heuristic ranking
+### **3. Intelligent Delivery Assignment System**  
+Smart delivery assignment based on distance, workload & patterns.  
+**Tech:** Laravel, JS, AI Heuristics
 
-### **4. AI Customer Support Assistant (Prototype)**
-> Automated replies + order assistance for multi-vendor eCommerce.  
+### **4. AI Customer Support Assistant (Prototype)**  
+Automated responses & order assistance for multi-vendor commerce.  
 **Tech:** React, Node.js, LLM APIs
 
 ---
-## 🎨 Featured Portfolio Projects
 
-Below are some of the solutions I’ve designed and built — presented in a clean, product-style layout.
+# 🎨 Featured Portfolio Projects  
+Clean, high-level overview of major systems I’ve built.
 
 ---
 
 ## 🧠 AI-Integrated ERP System (Multi-Business)
 **Status:** 🚧 In Development  
-**Type:** ERP · AI Automation · Cross-Industry Solution
+**Industry:** Multi-sector ERP
 
-A next-generation ERP platform built for **retail, hospitality, logistics, and service industries**, powered by integrated AI modules.
-
-**✨ Highlights**
-- AI-driven inventory forecasting  
-- Automated financial insights  
-- Business intelligence dashboards  
+**Highlights**
+- AI-based forecasting  
+- Automated financial summaries  
+- Conversational ERP (“Ask your ERP anything”)  
 - Multi-tenant architecture  
-- Natural language: *“Ask your ERP anything”*  
-- Modular design (HR, Sales, Accounting, Inventory, POS)  
+- Modular design (HR, Accounting, POS, Inventory, Sales)
 
-**🛠 Tech Stack**  
-`Laravel` · `Next.js / React` · `MySQL` · `AI APIs` · `Docker`
+**Tech:** `Laravel` · `Next.js` · `MySQL` · `AI APIs` · `Docker`
 
 ---
 
 ## 🏨 Hotel Reservation System (Completed)
-**Type:** Hospitality · Booking Engine · Management Dashboard
 
-A clean and efficient hotel management platform supporting real-time booking, room availability, and customer preferences.
-
-**✨ Features**
+**Features**
 - Real-time room availability  
-- Reservation management  
-- Dynamic pricing support  
-- Guest profiles  
-- Admin dashboard + analytics  
+- Reservation & guest management  
+- Dynamic pricing  
+- Analytics dashboard  
 
-**🛠 Tech Stack**  
-`Laravel` · `React` · `MySQL`
+**Tech:** `Laravel` · `React` · `MySQL`
 
 ---
 
 ## 🍽 Restaurant Ordering & Delivery Platform (Completed)
-**Type:** Food Ordering · Delivery Workflow · Vendor Dashboard
 
-A modern solution for restaurants with both dine-in and delivery support.
-
-**✨ Features**
-- Menu & item management  
-- Kitchen order workflow  
+**Features**
+- Menu & order workflow  
+- Kitchen display system  
 - Delivery assignment  
-- Vendor dashboards  
-- Customer order tracking  
+- Multi-vendor management  
+- Customer tracking  
 
-**🛠 Tech Stack**  
-`Laravel` · `Vue.js` · `MySQL`
+**Tech:** `Laravel` · `Vue.js` · `MySQL`
 
 ---
 
 ## 🛒 Multi-Vendor eCommerce Platform
-**Type:** Marketplace · Vendor Management · Analytics
 
-A fully scalable multi-vendor marketplace platform with separate dashboards for vendors, customers, and admins.
-
-**✨ Features**
+**Features**
 - Vendor onboarding  
-- Product catalog management  
-- Order management  
-- Delivery workflow  
-- Customer reviews  
+- Product catalog  
+- Order management workflow  
+- Delivery + review system  
 - Analytics dashboard  
 
-**🛠 Tech Stack**  
-`Laravel` · `Livewire` · `Bootstrap` · `MySQL`
+**Tech:** `Laravel` · `Livewire` · `Bootstrap` · `MySQL`
 
 ---
 
-## 🏫 Course Enrollment & Academic Platform
-**Type:** Education · Course Scheduling · Online Payments
+## 🏫 Academic & Course Enrollment Platform
 
-A platform that streamlines student registration and course management.
-
-**✨ Features**
-- Student enrollment  
+**Features**
+- Student registration  
 - Course scheduling  
-- Online payment integration  
-- Real-time notifications  
+- Online payments  
+- Notification system  
 
-**🛠 Tech Stack**  
-`Laravel` · `PHP` · `MySQL`
+**Tech:** `Laravel` · `MySQL`
 
 ---
 
 ## 🏥 Healthcare Management System
-**Type:** Medical · Patient Database · Appointment System
 
-A complete hospital administration system with scheduling and automated billing.
-
-**✨ Features**
+**Features**
 - Patient records  
-- Appointment scheduling  
+- Doctor scheduling  
 - Billing automation  
-- Departmental dashboards  
+- Department dashboards  
 
-**🛠 Tech Stack**  
-`Laravel` · `Bootstrap` · `jQuery`
+**Tech:** `Laravel` · `Bootstrap`
 
 ---
 
 ## 💰 Ekub (Revolving Savings) Management System
-**Type:** Community Finance · Automated Draws
 
-Digital transformation of traditional Ekub savings.
-
-**✨ Features**
-- Automatic monthly draws  
+**Features**
+- Automated monthly draw  
 - Eligibility engine  
-- Package tiers (gold, premium, platinum)  
-- Multi-winner distribution per draw  
+- Tiered packages  
+- Multi-winner distribution  
 
-**🛠 Tech Stack**  
-`Laravel` · `MySQL` · `Ajax`
+**Tech:** `Laravel` · `MySQL`
 
 ---
 
 <div align="center">
-  <strong>🚀 More projects coming soon — especially in AI & large-scale systems.</strong>
+  <strong>🚀 More AI + enterprise-scale projects coming soon.</strong>
 </div>
 
 ---
 
 # 🏅 Certifications
-
 - Meta Front-End Development  
 - IBM Node.js Back-End Development  
 - Simplilearn Docker  
@@ -193,14 +164,12 @@ Digital transformation of traditional Ekub savings.
 
 ---
 
----
-
 # 🌐 Connect With Me
 
-- **LinkedIn:** [Yared Ayele Debela](https://www.linkedin.com/in/yared-ayele-debela)  
-- **Portfolio:** [yaredayele.com](https://yaredayele.com)  
-- **Email:** [yared.debela.ayele@gmail.com](mailto:yared.debela.ayele@gmail.com)  
-- **CodePen:** [codepen.io/yared-ayele-debela](https://codepen.io/yared-ayele-debela)
+- **LinkedIn:** https://www.linkedin.com/in/yared-ayele-debela  
+- **Portfolio:** https://yaredayele.com  
+- **Email:** yared.debela.ayele@gmail.com  
+- **CodePen:** https://codepen.io/yared-ayele-debela  
 
 ---
 
@@ -208,25 +177,26 @@ Digital transformation of traditional Ekub savings.
 
 ## 🔥 Streak Stats  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yared-ayele-debela&theme=radical&background=000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaredayele&theme=radical&background=000000" />
 </div>
 
 ## 📈 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yared-ayele-debela&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yared-ayele-debela&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yaredayele&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaredayele&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 ## 🟩 Contribution Graph  
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yared-ayele-debela&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaredayele&theme=react-dark&hide_border=true"/>
 </div>
 
 ## 🏆 GitHub Trophies  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yared-ayele-debela&theme=dracula&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yaredayele&theme=dracula&no-bg=true&margin-w=10" />
 </div>
 
+---
 
 <div align="center">
   <h3>✨ "Building software solutions that make a real-world impact." ✨</h3>
