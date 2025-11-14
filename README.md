@@ -193,6 +193,17 @@ Digital transformation of traditional Ekub savings.
 
 ---
 
+---
+
+# 🌐 Connect With Me
+
+- **LinkedIn:** [Yared Ayele Debela](https://www.linkedin.com/in/yared-ayele-debela)  
+- **Portfolio:** [yaredayele.com](https://yaredayele.com)  
+- **Email:** [yared.debela.ayele@gmail.com](mailto:yared.debela.ayele@gmail.com)  
+- **CodePen:** [codepen.io/yared-ayele-debela](https://codepen.io/yared-ayele-debela)
+
+---
+
 # 📊 GitHub Metrics (Dark Mode)
 
 ## 🔥 Streak Stats  
@@ -216,16 +227,6 @@ Digital transformation of traditional Ekub savings.
   <img src="https://github-profile-trophy.vercel.app/?username=yared-ayele-debela&theme=dracula&no-bg=true&margin-w=10" />
 </div>
 
----
-
-# 🌐 Connect With Me
-
-- **LinkedIn:** [Yared Ayele Debela](https://www.linkedin.com/in/yared-ayele-debela)  
-- **Portfolio:** [yaredayele.com](https://yaredayele.com)  
-- **Email:** [yared.debela.ayele@gmail.com](mailto:yared.debela.ayele@gmail.com)  
-- **CodePen:** [codepen.io/yared-ayele-debela](https://codepen.io/yared-ayele-debela)
-
----
 
 <div align="center">
   <h3>✨ "Building software solutions that make a real-world impact." ✨</h3>
