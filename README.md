@@ -1,103 +1,95 @@
+<!-- Animated Header Banner -->
 <div align="center">
-  <h1>👋 Hi there! I'm <strong>Yared Ayele</strong></h1>
-  <h3>Full-Stack Software Engineer | AI Enthusiast | Problem Solver</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Yared+Ayele+👋;Full-Stack+Software+Engineer;AI+Enthusiast+%7C+Problem+Solver;Let's+Build+Something+Amazing+Together!">
 </div>
 
-<br>
+---
 
-I'm a highly motivated **Full-Stack Developer** with a Bachelor of Science in Computer Science and over **two years of professional experience**. I build **scalable, secure, and user-centric** applications — from ERP systems and multi-vendor marketplaces to healthcare solutions and community-based financial platforms like Ekub systems.
-
-My work focuses on clean architecture, practical engineering, and modern tooling. I’m also passionate about integrating **AI** to make software smarter and more helpful.
+## 🧑‍💻 About Me  
+I'm **Yared Ayele**, a passionate **Full-Stack Software Engineer** with strong experience in building **scalable, secure, and user-focused** applications using modern web technologies.  
+I love solving real-world problems through clean code, strong architecture, and emerging technologies — especially AI.
 
 ---
 
-## 💻 **What I Do**
+# ⚙️ Tech Stack & Tools
 
-- **Backend Development**  
-  PHP, Laravel — building robust, secure, scalable systems.
+<div align="center">
 
-- **Frontend Development**  
-  React, Vue.js, Livewire — delivering clean and smooth user experiences.
+### **Languages & Frameworks**
+  
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,vue,nodejs,express,mongodb,mysql,html,css,bootstrap,tailwind" />
 
-- **MERN Stack Development**  
-  MongoDB, Express.js, React, Node.js — full modern application development.
+### **Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,figma" />
 
-- **Database Management**  
-  MySQL & MongoDB — structured and optimized data handling.
-
-- **DevOps & Tools**  
-  Docker, Git, REST APIs, Postman, CI/CD basics.
+</div>
 
 ---
 
-## 🚀 **Currently Expanding Into**
+# 🚀 Currently Expanding Into
 
-- **AI-powered applications**  
-  LLM integrations, intelligent automation, and conversational tools.
-
-- **Intelligent recommendation systems**  
-  Product/content personalization, ranking algorithms, behavior-based suggestions.
-
-- **Modern JavaScript ecosystems**  
-  Especially **Next.js**, server components, API routes, and scalable architectures.
+- **AI-powered applications** (LLMs, automation, conversational systems)  
+- **Recommendation engines** (ranking, personalization)  
+- **Next.js & modern JS tooling** (server components, API routes, edge features)
 
 ---
 
-# 🚀 **Featured Projects**
+# 🧠 AI Projects (New Section)
 
-### **1. ERP System**
-> A modular enterprise solution for managing internal operations and automating workflows.  
-**Tech Stack:** Laravel, Bootstrap, jQuery, MySQL  
-**Features:** Modular architecture · Advanced reporting · RBAC · Inventory & HR modules  
+### **1. AI Product Recommendation Engine**
+> AI-powered product suggestion system based on user behavior & product similarities.  
+**Tech:** Node.js, Python, Gemini API, Vector Similarity
 
----
+### **2. AI Chat Automation for Web Apps**
+> Integrated LLM responses into existing Laravel applications.  
+**Tech:** Gemini API, Laravel, REST
 
-### **2. Multi-Vendor eCommerce Platform**
-> A complete marketplace system for vendors, customers, and admins.  
-**Tech Stack:** Laravel, Livewire, Bootstrap, Ajax  
-**Highlights:**  
-- Vendor dashboards  
-- Product catalog management  
-- Order & delivery tracking  
-- Customer reviews  
-- Advanced analytics dashboard  
+### **3. Intelligent Delivery Assignment**
+> Assigns delivery personnel using distance + load + historical patterns.  
+**Tech:** Laravel, JS, Rule-based + heuristic ranking
 
----
-
-### **3. Course Enrollment Platform**
-> Simplifies academic course registration and administration.  
-**Tech Stack:** Laravel, PHP, MySQL  
-**Features:** Dynamic scheduling · Payment integration · Notifications  
+### **4. AI Customer Support Assistant (Prototype)**
+> Automated replies + order assistance for multi-vendor eCommerce.  
+**Tech:** React, Node.js, LLM APIs
 
 ---
 
-### **4. Healthcare Management System**
-> End-to-end hospital administration platform.  
-**Tech Stack:** Laravel, jQuery, Bootstrap  
-**Features:** Patient records · Appointment scheduling · Billing automation  
+# 🔥 Featured Projects
+
+### **ERP System**
+Modular enterprise system — reporting, RBAC, HR, Inventory  
+**Tech:** Laravel, MySQL, jQuery, Bootstrap
+
+### **Multi-Vendor eCommerce Platform**
+Vendor dashboards, product management, analytics  
+**Tech:** Laravel, Livewire, Ajax  
+
+### **Course Enrollment Platform**
+Scheduling, payments, notifications  
+**Tech:** Laravel, MySQL  
+
+### **Healthcare Management System**
+Appointments, billing, patient management  
+**Tech:** Laravel, jQuery  
+
+### **Ekub Application**
+Community financial system with monthly draws  
+**Tech:** Laravel, MySQL
 
 ---
 
-### **5. Ekub (Revolving Savings) Application**
-> A digital platform for community-based financial management.  
-**Tech Stack:** Laravel, Ajax, MySQL  
-**Features:** Monthly draws · Eligibility engine · Package tiers · Multi-user winning distribution  
+# 📦 Current Projects
+
+### **Hotel Reservation System**  
+**Tech:** Laravel, React
+
+### **Restaurant Ordering Platform**  
+**Tech:** Laravel, Vue.js
 
 ---
 
-# 💼 **Current Projects**
+# 🏅 Certifications
 
-### **Hotel Reservation System**
-**Tech Stack:** Laravel, React, MySQL  
-Booking management, room availability, and customer preference tracking.
-
-### **Restaurant Food Ordering Web Application**
-**Tech Stack:** Laravel, Vue.js  
-Order placement, delivery workflows, vendor dashboards.
-
----
-
-# 🌟 **Certificates**
 - Meta Front-End Development  
 - IBM Node.js Back-End Development  
 - Simplilearn Docker  
@@ -105,25 +97,40 @@ Order placement, delivery workflows, vendor dashboards.
 
 ---
 
-# 🌐 **Connect with Me**
+# 📊 GitHub Metrics (Dark Mode)
 
-- **LinkedIn:** [Yared Ayele Debela](https://www.linkedin.com/in/yared-ayele-debela)  
-- **Portfolio:** [yaredayele.com](https://yareda-kappa.vercel.app/)  
-- **Email:** [yared.debela.ayele@gmail.com](mailto:yared.debela.ayele@gmail.com)  
-- **CodePen:** [codepen.io/yared-ayele-debela](https://codepen.io/yared-ayele-debela)  
-
----
-
-<div align="center">
-  
 ## 🔥 Streak Stats  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yared-ayele-debela&theme=radical" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yared-ayele-debela&theme=radical&background=000000" />
+</div>
+
+## 📈 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yared-ayele-debela&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yared-ayele-debela&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+
+## 🟩 Contribution Graph  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yared-ayele-debela&theme=react-dark&hide_border=true"/>
+</div>
 
 ## 🏆 GitHub Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=yared-ayele-debela&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
-  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yared-ayele-debela&theme=dracula&no-bg=true&margin-w=10" />
 </div>
 
 ---
 
-<p align="center"><strong>✨ "Building software solutions that make a real-world impact." ✨</strong></p>
+# 🌐 Connect With Me
+
+- **LinkedIn:** [Yared Ayele Debela](https://www.linkedin.com/in/yared-ayele-debela)  
+- **Portfolio:** [yaredayele.com](https://yaredayele.com)  
+- **Email:** [yared.debela.ayele@gmail.com](mailto:yared.debela.ayele@gmail.com)  
+- **CodePen:** [codepen.io/yared-ayele-debela](https://codepen.io/yared-ayele-debela)
+
+---
+
+<div align="center">
+  <h3>✨ "Building software solutions that make a real-world impact." ✨</h3>
+</div>
