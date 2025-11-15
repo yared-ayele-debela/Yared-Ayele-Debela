@@ -72,7 +72,7 @@ Clean, high-level overview of major systems I’ve built.
 - Multi-tenant architecture  
 - Modular design (HR, Accounting, POS, Inventory, Sales)
 
-**Tech:** `Laravel` · `Next.js` · `MySQL` · `AI APIs` · `Docker`
+**Tech:** `Laravel` · `MySQL` · `AI APIs` · `Docker`
 
 ---
 
