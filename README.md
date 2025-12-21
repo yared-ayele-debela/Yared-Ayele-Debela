@@ -30,10 +30,10 @@ into real-world applications.
 ---
 
 # 🚀 Currently Expanding Into
+- ⚡ **Java & Spring Boot** (Core Java, Advanced Java, Hibernate, Postgres, Spring Boot, Docker, Cloud Deployment, Microservices)
 - 🤖 **AI-powered applications** (LLMs, automation & analytics)  
-- 🎯 **Recommendation engines** (ranking, personalization)  
-- ⚡ **Next.js & modern JS tooling** (server components, edge runtime)  
-
+- ⚡ **Next.js & modern JS tooling** (server components, edge runtime)
+- 
 ---
 
 # 🧠 AI Projects
