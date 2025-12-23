@@ -166,7 +166,7 @@ Clean, high-level overview of major systems I’ve built.
 
 # 🌐 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/yared-ayele-debela  
+- **LinkedIn:** https://www.linkedin.com/in/yareddebela  
 - **Portfolio:** https://yaredayele.com  
 - **Email:** yared.debela.ayele@gmail.com  
 - **CodePen:** https://codepen.io/yared-ayele-debela  
