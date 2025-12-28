@@ -1,12 +1,12 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Yared+Ayele+👋;Full-Stack+Software+Engineer;AI+Enthusiast+%7C+Problem+Solver;Let's+Build+Something+Amazing+Together!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Yared+Debela+👋;Full-Stack+Software+Engineer;AI+Enthusiast+%7C+Problem+Solver;Let's+Build+Something+Amazing+Together!">
 </div>
 
 ---
 
 ## 🧑‍💻 About Me  
-I'm **Yared Ayele**, a dedicated **Full-Stack Software Engineer** with hands-on experience building  
+I'm **Yared Debela**, a dedicated **Full-Stack Software Engineer** with hands-on experience building  
 **scalable, secure, and intelligent systems** for businesses across hospitality, retail, finance,  
 and eCommerce sectors.
 
