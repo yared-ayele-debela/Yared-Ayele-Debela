@@ -33,28 +33,7 @@ into real-world applications.
 - ⚡ **Java & Spring Boot** (Core Java, Advanced Java, Hibernate, Postgres, Spring Boot, Docker, Cloud Deployment, Microservices)
 - 🤖 **AI-powered applications** (LLMs, automation & analytics)  
 - ⚡ **Next.js & modern JS tooling** (server components, edge runtime)
-- 
----
 
-# 🧠 AI Projects
-
-### **1. AI Product Recommendation Engine**  
-AI-based product suggestion model using vector similarity & behavioral data.  
-**Tech:** Node.js, Python, Gemini API, Vector DB
-
-### **2. AI Chat Automation for Web Apps**  
-LLM-powered chatbot integrated into Laravel systems.  
-**Tech:** Gemini API, Laravel, REST
-
-### **3. Intelligent Delivery Assignment System**  
-Smart delivery assignment based on distance, workload & patterns.  
-**Tech:** Laravel, JS, AI Heuristics
-
-### **4. AI Customer Support Assistant (Prototype)**  
-Automated responses & order assistance for multi-vendor commerce.  
-**Tech:** React, Node.js, LLM APIs
-
----
 
 # 🎨 Featured Portfolio Projects  
 Clean, high-level overview of major systems I’ve built.
