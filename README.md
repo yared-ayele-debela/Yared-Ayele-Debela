@@ -1,5 +1,5 @@
 # Yared Debela
-### Software Engineer | Frontend | Backend | Cloud-Oriented Systems
+### Software Engineer | Full-Stack | & Cloud Infrastructure
 
 Software Engineer focused on designing and delivering scalable, secure, and production-ready applications.  
 Experienced in backend architecture, API development, database optimization, and containerized deployment.
