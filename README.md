@@ -125,13 +125,13 @@ More projects → <a href="https://github.com/yared-ayele-debela?tab=repositorie
 ### 📊 GitHub Pulse
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yared-ayele-debela&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" width="48%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=yared-ayele-debela&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" width="48%"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yared-ayele-debela&theme=dracula&hide_border=true" alt="Streak" width="48%"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yared-ayele-debela&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="60%"/>
-</div>
+</div> -->
 
 ---
 
