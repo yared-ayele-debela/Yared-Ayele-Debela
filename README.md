@@ -126,8 +126,7 @@ More projects → <a href="https://github.com/yared-ayele-debela?tab=repositorie
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yared-ayele-debela&theme=dracula&hide_border=true" alt="Streak" width="48%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yared-ayele-debela&theme=dracula&hide_border=true" />
 </div>
 
 ---
