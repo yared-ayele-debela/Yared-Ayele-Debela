@@ -125,9 +125,9 @@ More projects → <a href="https://github.com/yared-ayele-debela?tab=repositorie
 ### 📊 GitHub Pulse
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yared-ayele-debela&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yared-ayele-debela&theme=dracula&hide_border=true" />
 </div>
+
 
 ---
 
