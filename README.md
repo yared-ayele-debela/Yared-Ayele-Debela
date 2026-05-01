@@ -22,10 +22,9 @@
 
 **Software Engineer** passionate about **backend-first architecture**, **scalable APIs**, **clean infrastructure**, and turning complex requirements into maintainable, production-grade solutions.
 
-- 🏠 Based in **Venezia, Italy** (originally Venezia-Mestre area)
+- 🏠 Based in **Venezia, Italy**
 - 🔭 Currently deep-diving into **cloud-native patterns**, **microservices evolution**, **Java/Spring Boot**, and advanced **Laravel ecosystem** features
 - 🌱 Learning & applying: **system design**, **event-driven architecture**, **performance at scale**
-- 💡 Strong believer in **architecture comparison** (monolith → microservices) to understand trade-offs
 - 📫 Open to: collaborations, backend challenges, DevOps discussions, or interesting full-stack opportunities
 
 ---
