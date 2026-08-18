@@ -55,7 +55,7 @@
     <th>Core Stack</th>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/yared-ayele-debela/Zillow-Like-Real-Estate-Platform">Zillow-Like Real Estate Platform</a></b></td>
+    <td><b><a href="https://github.com/yared-ayele-debela/Zillow-Like-Real-Estate-Platform">Zillow-Clone Real Estate Platform</a></b></td>
     <td>Full marketplace with property search, Mapbox, Stripe payments, real-time messaging/notifications, multi-role dashboards</td>
     <td>Modular MVC + API-first</td>
     <td>Laravel 12 · React · MySQL · Mapbox · Stripe · Reverb</td>
