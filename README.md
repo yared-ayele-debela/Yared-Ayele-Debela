@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F4ED,50:D97757,100:BD5D3A&height=160&section=header&text=Hi,%20I'm%20Yared&fontSize=42&fontColor=2B2118&fontAlignY=38"/>
 
-**Software Engineer | Backend, Cloud & AI-Powered Applications | AWS Certified AI Practitioner — based in Mestre, Italy 🇮🇹** 
+**Software Engineer | Backend, Cloud & AI-Powered Applications | AWS Certified AI Practitionern**
+
+Based in Mestre, Italy 🇮🇹
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2B2118?style=for-the-badge&logo=linkedin&logoColor=F5F4ED)](https://linkedin.com/in/yareddebela)
 [![Email](https://img.shields.io/badge/Email-D97757?style=for-the-badge&logo=gmail&logoColor=F5F4ED)](mailto:yared.debela.ayele@gmail.com)
