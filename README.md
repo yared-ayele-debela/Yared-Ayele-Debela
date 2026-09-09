@@ -93,10 +93,12 @@ Hotel availability, reservations, and booking administration.
 
 <br>
 
-## GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yared-ayele-debela&bg_color=F5F4ED&color=2B2118&line=D97757&point=BD5D3A&area=true&hide_border=true" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yared-ayele-debela&hide_border=true">
+
 </div>
 
 <br>
