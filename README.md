@@ -21,7 +21,7 @@ Based in Mestre, Italy 🇮🇹
 | 🧭 **Role** | Software Engineer — Full-Stack, Cloud & AI |
 | 📍 **Location** | Mestre, Italy |
 | 🏆 **Certified** | AWS Certified AI Practitioner (Sep 2026) |
-| 🧑‍💻 **Experience** | ~3 years professional software engineering |
+| 🧑‍💻 **Experience** |  3 years professional software engineering |
 | 🎯 **Open to** | Software Engineering, Full-Stack, Cloud, and AI roles |
 
 > I turn complex business requirements into clean, maintainable, production-ready software — from backend APIs and database design to modern frontend and cloud-native deployment.
