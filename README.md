@@ -1,114 +1,102 @@
-<div align="center">
+# Yared Debela
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F4ED,50:D97757,100:BD5D3A&height=160&section=header&text=Hi,%20I'm%20Yared%20Debela&fontSize=42&fontColor=2B2118&fontAlignY=38"/>
+**Software Engineer: Backend, Cloud and AI-Powered Applications**
+Mestre, Italy · AWS Certified (Cloud Practitioner, AI Practitioner)
 
-**Software Engineer | Backend, Cloud & AI-Powered Applications | AWS Certified AI Practitionern**
+[LinkedIn](https://linkedin.com/in/yareddebela) · [Email](mailto:yared.debela.ayele@gmail.com) · [GitHub Repositories](https://github.com/yared-ayele-debela?tab=repositories)
 
-Based in Mestre, Italy 🇮🇹
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2B2118?style=for-the-badge&logo=linkedin&logoColor=F5F4ED)](https://linkedin.com/in/yareddebela)
-[![Email](https://img.shields.io/badge/Email-D97757?style=for-the-badge&logo=gmail&logoColor=F5F4ED)](mailto:yared.debela.ayele@gmail.com)
-[![GitHub](https://img.shields.io/badge/Repositories-BD5D3A?style=for-the-badge&logo=github&logoColor=F5F4ED)](https://github.com/yared-ayele-debela?tab=repositories)
+## About
 
-</div>
+Software engineer with 2+ years of professional experience building production systems: ERP, multi-vendor e-commerce, hospital and delivery management, and payment integrations. I turn business requirements into clean, maintainable software, from backend APIs and database design to modern frontends and cloud-native deployment.
 
-<br>
+Currently completing an MSc in Computer Science and Technology at Ca' Foscari University of Venice, with a career focus on AI engineering. Open to software engineering, full-stack, cloud, and AI roles in Italy and across Europe.
 
-## At a Glance
+## Certifications
 
-| | |
-|---|---|
-| 🧭 **Role** | Software Engineer — Full-Stack, Cloud & AI |
-| 📍 **Location** | Mestre, Italy |
-| 🏆 **Certified** | AWS Certified AI Practitioner (Sep 2026) |
-| 🧑‍💻 **Experience** |  3 years professional software engineering |
-| 🎯 **Open to** | Software Engineering, Full-Stack, Cloud, and AI roles |
+| Certification | Issuer | Date |
+|---|---|---|
+| AWS Certified Cloud Practitioner | AWS | Oct 2026 |
+| AWS Certified AI Practitioner | AWS | Sep 2026 |
+| Associate AI Engineer for Developers | DataCamp | 2026 |
+| Associate Python Developer | DataCamp | 2026 |
+| AI Fundamentals | DataCamp | 2026 |
+| GitHub Foundations | GitHub / DataCamp | 2026 |
 
-> I turn complex business requirements into clean, maintainable, production-ready software — from backend APIs and database design to modern frontend and cloud-native deployment.
-
-<br>
+Next: AWS Certified Solutions Architect – Associate.
 
 ## Technical Skills
 
 | Category | Technologies |
 |---|---|
-| **Languages** | PHP, Java, JavaScript, TypeScript |
-| **Backend & APIs** | Laravel, Spring Boot, REST API design |
-| **Frontend** | React, Next.js, Vue.js, Tailwind CSS |
-| **Databases** | MySQL, PostgreSQL, Redis |
-| **Cloud & Infrastructure** | AWS, Docker, Linux, GitHub Actions |
-| **AI / Machine Learning** | Amazon Bedrock, Generative AI, RAG, Foundation Models |
-| **Tooling** | Git, CI/CD, containerized deployments |
+| Languages | PHP, Java, JavaScript, TypeScript, Python, Bash |
+| Backend and APIs | Laravel, Spring Boot, Node.js, REST API design |
+| Frontend | React, Next.js, Vue.js, Tailwind CSS |
+| Databases and Caching | MySQL, PostgreSQL, MongoDB, Redis |
+| Cloud and Infrastructure | AWS, Docker, Linux, GitHub Actions |
+| AI / Machine Learning | Amazon Bedrock, Generative AI, RAG, Foundation Models |
+| Tooling | Git, CI/CD, containerized deployments |
 
-<br>
+## Experience
 
-## Currently Focused On
+**Software Engineer**, Afroel Technology, Addis Ababa · Feb 2024 – Dec 2025
+Full-stack development of production business systems and payment integrations.
 
-`System Design` · `AWS & Cloud-Native Dev` · `Docker & DevOps` · `Microservices` · `Generative AI` · `RAG` · `Clean Architecture`
+**Software Engineer (part-time)**, Seven Group, Adama · May 2023 – Dec 2023
 
-<br>
+### Production Engineering Highlights
+
+- **Performance:** Diagnosed a multi-function platform that slowed under campaign traffic. Added Redis caching, optimized queries, and reworked per-user "recently viewed" storage, reducing load times from roughly 6–9 seconds to under 1 second.
+- **Scale:** Optimized product search and filtering in an ERP system holding 15K+ records through query tuning and caching.
+
+## Current Focus
+
+AI engineering (generative AI, RAG, Amazon Bedrock), AWS and cloud-native development, system design, Docker and DevOps, microservices, clean architecture.
 
 ## Selected Projects
 
-### Zillow-Clone Real Estate Platform
-**Modular MVC, API-first marketplace** — [Repository](https://github.com/yared-ayele-debela/Zillow-Like-Real-Estate-Platform)
+### [Real Estate Platform](https://github.com/yared-ayele-debela/Zillow-Like-Real-Estate-Platform)
+API-first real estate marketplace with property search, geolocation, and payments.
 
-Full real estate marketplace with property search, geolocation, and payment processing.
 - Integrated Mapbox for property search and Stripe for payment processing
 - Built real-time messaging and notifications with Laravel Reverb
 - Implemented multi-role dashboards for buyers, agents, and admins
 
-**Stack:** Laravel 12 · React · MySQL · Mapbox · Stripe · Reverb
+**Stack:** Laravel 12, React, MySQL, Mapbox, Stripe, Reverb
 
----
+### [Soccer Tournament Management](https://github.com/yared-ayele-debela/Soccer-Tournament-Management)
+Team scheduling, match tracking, and standings, built twice to compare architectures.
 
-### Soccer Tournament Management
-**Architecture comparison: monolith vs. microservices** — [Repository](https://github.com/yared-ayele-debela/Soccer-Tournament-Management)
-
-Team scheduling, match tracking, and standings, deliberately built twice under two different architectures.
 - Implemented the same domain as both a monolith and a microservices system
-- Compared trade-offs in deployment, scaling, and maintainability between the two
+- Compared trade-offs in deployment, scaling, and maintainability
 
-**Stack:** PHP · Laravel · Microservices
+**Stack:** PHP, Laravel, Microservices
 
----
+### [SafeCity Crime Reporting](https://github.com/yared-ayele-debela/SafeCity-Crime-Reporting-System)
+Citizen-facing incident reporting platform with administrative oversight.
 
-### SafeCity Crime Reporting
-**Secure, real-time reporting architecture** — [Repository](https://github.com/yared-ayele-debela/SafeCity-Crime-Reporting-System)
+- Built real-time report submission and admin verification workflows
+- Designed tracking and case-management flows for review
 
-Citizen-facing platform for reporting incidents with administrative oversight.
-- Built real-time report submission and administrative verification workflows
-- Designed tracking and case-management flows for administrative review
+**Stack:** PHP, MySQL, JavaScript, CSS
 
-**Stack:** PHP · MySQL · JavaScript · CSS
-
----
-
-### Hotel Booking System `Active`
-**Booking domain and state management** — [Repository](https://github.com/yared-ayele-debela/Hotel-Booking)
-
+### [Hotel Booking System](https://github.com/yared-ayele-debela/Hotel-Booking) (in progress)
 Hotel availability, reservations, and booking administration.
+
 - Modeled booking-domain logic covering availability, reservations, and lifecycle states
 - Built administration tooling on a modern frontend stack
 
-**Stack:** Laravel · Modern Frontend
+**Stack:** Laravel, React, Tailwind CSS
 
-<br>
+## Education
 
-## 📈 GitHub Activity
+- **MSc, Computer Science and Technology**, Ca' Foscari University of Venice (in progress)
+- **BSc, Computer Science**, Harambee University · 2023
 
-<div align="center">
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yared-ayele-debela&hide_border=true">
+## Contact
 
-</div>
-
-<br>
-
-<div align="center">
-
-**Let's build something** — reach out about backend systems, cloud architecture, or AI integration.
-
-<sub>Build • Learn • Scale</sub>
-
-</div>
+I'm happy to talk about backend systems, cloud architecture, or AI integration.
+[LinkedIn](https://linkedin.com/in/yareddebela) · [yared.debela.ayele@gmail.com](mailto:yared.debela.ayele@gmail.com)
