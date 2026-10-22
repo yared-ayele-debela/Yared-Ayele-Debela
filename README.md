@@ -15,16 +15,19 @@ Currently completing an MSc in Computer Science and Technology at Ca' Foscari Un
 
 ## Certifications
 
-| Certification | Issuer | Date |
-|---|---|---|
-| AWS Certified Cloud Practitioner | AWS | Oct 2026 |
-| AWS Certified AI Practitioner | AWS | Sep 2026 |
-| Associate AI Engineer for Developers | DataCamp | 2026 |
-| Associate Python Developer | DataCamp | 2026 |
-| AI Fundamentals | DataCamp | 2026 |
-| GitHub Foundations | GitHub / DataCamp | 2026 |
+**AWS**
+- [AWS Certified Cloud Practitioner](https://your-credly-link) · Oct 2026
+- [AWS Certified AI Practitioner](https://your-credly-link) · Sep 2026
 
-Next: AWS Certified Solutions Architect – Associate.
+**DataCamp**
+- [Associate AI Engineer for Developers](https://your-link)
+- [Associate Python Developer](https://your-link)
+- [AI Fundamentals](https://your-link)
+
+**GitHub**
+- [GitHub Foundations](https://your-link)
+
+*In progress: AWS Certified Solutions Architect – Associate*
 
 ## Technical Skills
 
