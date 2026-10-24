@@ -27,8 +27,6 @@ Currently completing an MSc in Computer Science and Technology at Ca' Foscari Un
 **GitHub**
 - [GitHub Foundations](https://www.datacamp.com/completed/statement-of-accomplishment/track/3784390def827b0b53e5dc78e0c09190c925a687?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 
-*In progress: AWS Certified Solutions Architect – Associate*
-
 ## Technical Skills
 
 | Category | Technologies |
