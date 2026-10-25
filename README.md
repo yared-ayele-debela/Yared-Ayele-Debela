@@ -13,6 +13,19 @@ Software engineer with 2+ years of professional experience building production s
 
 Currently completing an MSc in Computer Science and Technology at Ca' Foscari University of Venice, with a career focus on AI engineering. Open to software engineering, full-stack, cloud, and AI roles in Italy and across Europe.
 
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Languages | PHP, Java, JavaScript, TypeScript, Python, Bash |
+| Backend and APIs | Laravel, Spring Boot, Node.js, REST API design |
+| Frontend | React, Next.js, Vue.js, Tailwind CSS |
+| Databases and Caching | MySQL, PostgreSQL, MongoDB, Redis |
+| Cloud and Infrastructure | AWS, Docker, Linux, GitHub Actions |
+| AI / Machine Learning | Amazon Bedrock, Generative AI, RAG, Foundation Models |
+| Tooling | Git, CI/CD, containerized deployments |
+
+
 ## Certifications
 
 **AWS**
@@ -27,17 +40,6 @@ Currently completing an MSc in Computer Science and Technology at Ca' Foscari Un
 **GitHub**
 - [GitHub Foundations](https://www.datacamp.com/completed/statement-of-accomplishment/track/3784390def827b0b53e5dc78e0c09190c925a687?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 
-## Technical Skills
-
-| Category | Technologies |
-|---|---|
-| Languages | PHP, Java, JavaScript, TypeScript, Python, Bash |
-| Backend and APIs | Laravel, Spring Boot, Node.js, REST API design |
-| Frontend | React, Next.js, Vue.js, Tailwind CSS |
-| Databases and Caching | MySQL, PostgreSQL, MongoDB, Redis |
-| Cloud and Infrastructure | AWS, Docker, Linux, GitHub Actions |
-| AI / Machine Learning | Amazon Bedrock, Generative AI, RAG, Foundation Models |
-| Tooling | Git, CI/CD, containerized deployments |
 
 ## Experience
 
