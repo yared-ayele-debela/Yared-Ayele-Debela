@@ -26,16 +26,28 @@ Currently completing an MSc in Computer Science and Technology at Ca' Foscari Un
 | Tooling | Git, CI/CD, containerized deployments |
 
 
-## Certifications
 
-**AWS**
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/837b4094-1431-446e-91cc-6f33dffd649d/linked_in_profile) · Oct 2026
-- [AWS Certified AI Practitioner](https://www.credly.com/badges/5482330d-8d84-44ca-b4b9-7e4517732586/linked_in_profile) · Sep 2026
 
-**DataCamp**
+## 🏆 Certifications & Achievements
+
+### ☁️ AWS Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/837b4094-1431-446e-91cc-6f33dffd649d/linked_in_profile">
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/5482330d-8d84-44ca-b4b9-7e4517732586/linked_in_profile">
+    <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+</p>
+
+### 🐍 DataCamp & Developer Certifications
+
 - [Associate AI Engineer for Developers](https://www.datacamp.com/certificate/AIEDA0013077665306)
 - [Associate Python Developer](https://www.datacamp.com/certificate/PDEVA0012304409862)
 - [AI Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/edf4dc3bdb43f71c5e837378c58e4300d1a2734d?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+- [GitHub Foundations](https://www.datacamp.com/completed/statement-of-accomplishment/track/3784390def827b0b53e5dc78e0c09190c925a687?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+
 
 **GitHub**
 - [GitHub Foundations](https://www.datacamp.com/completed/statement-of-accomplishment/track/3784390def827b0b53e5dc78e0c09190c925a687?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
